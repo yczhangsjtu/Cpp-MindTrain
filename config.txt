@@ -1,0 +1,3 @@
+BoolMatrixM 		4
+BoolMatrixN 		5
+BoolMatrixExpire 	1000
